@@ -1,0 +1,25 @@
+konek to github
+menggunakan Bootstrap (currently v3.3.7)
+
+baru sampai video NGOBAR#3
+
+
+koding error
+pindahkan scroll animasi
+  $("body").animate(
+    {
+      scrollTop: elemenTujuan.offset().top - 50,
+    },
+    1500,
+    "swing"
+  );
+=================================================
+koding solving menggunakan -> $("html,body") animasi
+pindahkan scroll animasi
+  $("html,body").animate(
+    {
+      scrollTop: elemenTujuan.offset().top - 50,
+    },
+    1500,
+    "swing"
+  );
